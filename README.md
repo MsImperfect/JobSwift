@@ -5,8 +5,10 @@ Built with Python, Google Gemini AI (via GenerativeModel), and Streamlit, JobSwi
 🎯 Features
 📝 Resume Generator
 Instantly generate a personalized resume based on your experience, skills, education, and achievements.
+
 💌 Cover Letter Generator
 Create a customized, professional cover letter for any job title and company in seconds.
+
 ❓ Interview Prep
 Generate tailored interview questions based on your skills for better preparation and confidence.
 
